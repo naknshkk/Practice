@@ -28,7 +28,7 @@ puts fizz_bizz(12)
 puts fizz_bizz(13)
 puts fizz_bizz(14)
 puts fizz_bizz(15)
-puts fizz_bizz(16)
+#puts fizz_bizz(16)
 
 
 
